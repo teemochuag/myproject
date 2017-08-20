@@ -1,0 +1,21 @@
+{
+  "menu": [{
+      "list_title": "A功能",
+      "href": "",
+      "role_ids": [],
+      "sub_list": []
+    },
+    {
+      "list_title": "B功能",
+      "href": "",
+      "role_ids": [],
+      "sub_list": []
+    },
+    {
+      "list_title": "C功能",
+      "href": "",
+      "role_ids": [],
+      "sub_list": []
+    }
+  ]
+}

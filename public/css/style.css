@@ -1,0 +1,7 @@
+div > div.w3-twothird > p{
+    /* height: 200px;
+    width: 650px; */
+    overflow:hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis; 
+}
